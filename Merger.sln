@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merger", "Merger\Merger.csproj", "{F858075D-E11E-4B61-9F11-19DA7820B29E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{5720AF58-0B42-44E6-AB0C-22F83F1E9613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergerTest", "MergerTest\MergerTest.csproj", "{1158F8A4-992F-4B15-8FBB-5C2A91B1894C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffMerger", "DiffMerger\DiffMerger.csproj", "{2127E466-37C1-4806-828A-3F15627C3EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F858075D-E11E-4B61-9F11-19DA7820B29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F858075D-E11E-4B61-9F11-19DA7820B29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F858075D-E11E-4B61-9F11-19DA7820B29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F858075D-E11E-4B61-9F11-19DA7820B29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1158F8A4-992F-4B15-8FBB-5C2A91B1894C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1158F8A4-992F-4B15-8FBB-5C2A91B1894C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1158F8A4-992F-4B15-8FBB-5C2A91B1894C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1158F8A4-992F-4B15-8FBB-5C2A91B1894C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2127E466-37C1-4806-828A-3F15627C3EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2127E466-37C1-4806-828A-3F15627C3EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2127E466-37C1-4806-828A-3F15627C3EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2127E466-37C1-4806-828A-3F15627C3EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
